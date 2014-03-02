@@ -17,6 +17,16 @@ var deck={
       "formattedText": "<ul>\n<li>a</li>\n<li>b</li>\n<li>c</li>\n</ul>",
       "image": {},
       "audio": {}
+    },
+    {
+      "audio": {
+        "converting": false,
+        "name": "rec1393742114320.webm",
+        "startTime": "2014-03-02T06:35:14.320Z",
+        "stopTime": "2014-03-02T06:35:22.678Z",
+        "path": "media/rec1393742114320.webm"
+      },
+      "image": {}
     }
   ],
   "name": "slide-show"
