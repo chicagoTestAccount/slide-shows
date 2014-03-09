@@ -17,7 +17,13 @@ var deck={
     },
     {
       "image": {},
-      "audio": {}
+      "audio": {
+        "converting": false,
+        "name": "rec1394331215260.webm",
+        "startTime": "2014-03-09T02:13:35.260Z",
+        "stopTime": "2014-03-09T02:13:41.324Z",
+        "path": "media/rec1394331215260.webm"
+      }
     }
   ],
   "name": "slide-show-pub-test"
